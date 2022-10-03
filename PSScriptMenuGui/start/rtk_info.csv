@@ -1,0 +1,12 @@
+Section,Method,Command,Arguments,Name,Description
+Очистка диска itsCleanable,powershell_file,.\itsCleanable.ps1,,itsCleanable:<LineBreak />Запуск скрипта, Запустит скрипт на очистку компьютера от админа.
+Диагностика itsDiagnostics,powershell_file,.\itsDiagnostics.ps1,,itsDiagnostics:<LineBreak />Запуск скрипта, Запустит скрипт на диагностику компьютера от админа.
+Исправление пуска Windows 10,powershell_file,.\itsStart.ps1,,itsStart:<LineBreak />Исправление пуска,  Исправляет неработающий пуск в Windows 10.
+Диспетчер программ,powershell_file,.\itsCMD.ps1,,itsCMD:<LineBreak />Запуск cmd, Запустит cmd от админа.
+Диспетчер программ,powershell_file,.\itsPH.ps1,,itsPH:<LineBreak />Запуск PowerShell, Запустит PowerShell от админа.
+Диспетчер программ,powershell_file,.\itsDisk.ps1,,itsDisk:<LineBreak />Открыть диск C:\, Запустит окно проводника по директории C:\
+Диспетчер программ,powershell_file,.\itsControl.ps1,,itsDisk:<LineBreak />Панель управления, Запустит панель управления от админа.
+Диспетчер программ,powershell_file,.\itsTaskmgr.ps1,,itsTaskmgr:<LineBreak />Диспетчера задач, Запуск диспетчера задач от админа.
+Диспетчер программ,powershell_file,.\itsRegedit.ps1,,itsRegedit:<LineBreak />Редактор реестра, Запуск редактора реестра от админа.
+Диспетчер программ,powershell_file,.\itsDevmgmt.ps1,,itsDevmgmt:<LineBreak />Диспетчер устройств, Запуск диспетчера устройств от админа.
+Диспетчер программ,powershell_file,.\itsMMC.ps1,,itsMMC:<LineBreak />Оснастка ММС,  Запуск остастки ММС от админа.

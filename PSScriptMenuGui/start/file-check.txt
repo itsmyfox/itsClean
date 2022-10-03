@@ -1,0 +1,95 @@
+C:\Logs\
+C:\Windows\Logs\
+C:\Windows\Temp\
+C:\Windows\SoftwareDistribution\
+C:\Windows\Installer\$PatchCache$\
+C:\Windows\assembly\NativeImages_v2.0.50727_32\temp\
+C:\Windows\assembly\NativeImages_v4.0.30319_64\temp\
+C:\Windows\assembly\NativeImages_v2.0.50727_64\temp\
+C:\Windows\assembly\NativeImages_v4.0.30319_32\temp\
+C:\Windows\assembly\temp\
+C:\Windows\assembly\tmp\
+C:\Windows\System32\WDI\BootPerformanceDiagnostics_SystemData.bin
+C:\Windows\System32\WDI\ShutdownPerformanceDiagnostics_SystemData.bin
+C:\Windows\System32\catroot2\dberr.txt
+C:\Windows\System32\LogFiles\WMI\RtBackup\
+C:\Windows\BitLockerDiscoveryVolumeContents\
+C:\Windows\LastGood.Tmp\
+C:\Windows\msdownld.tmp\
+C:\Windows\Minidump\
+C:\Windows\'Downloaded Program Files'\
+C:\Windows\'Downloaded Installations'\
+C:\Windows\tracing\
+C:\Windows\rescache\
+C:\Windows\ModemLogs\
+C:\Windows\CbsTemp\
+C:\Windows\LiveKernelReports\
+C:\Windows\DeliveryOptimization\
+C:\Windows\RemotePackages\
+C:\Windows\bcastdvr\
+C:\Windows\SchCache\
+C:\Windows\Speech\Engines\Lexicon\
+C:\Windows\Speech\Engines\SR\
+C:\Windows\Speech_OneCore\Engines\Lexicon\
+C:\Windows\Speech_OneCore\Engines\SR\
+C:\Windows\System32\wbem\Logs\
+C:\Windows\SysWOW64\wbem\Logs\
+C:\Windows\assembly\temp\
+C:\Windows\Minidump\
+C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Temp\
+C:\Windows\System32\DriverStore\Temp\
+C:\Windows\System32\config\systemprofile\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\
+C:\Windows\System32\config\systemprofile\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\
+C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\
+C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\
+C:\Windows\System32\LogFiles\Scm\
+C:\Windows\System32\sysprep\Panther\IE\
+C:\Windows\System32\WDI\LogFiles\
+C:\'Program Files (x86)'\LANDesk\LDClient\sdmcache\
+C:\'Program Files'\NVIDIA Corporation\Installer2\
+C:\'Program Files'\Uninstall Information\
+C:\'Program Files'\WindowsUpdate\
+C:\'Program Files (x86)'\Uninstall Information\
+C:\'Program Files (x86)'\WindowsUpdate\
+C:\ProgramData\'Aktiv Co'\
+C:\ProgramData\USOShared\Logs\
+C:\ProgramData\VMware\VDM\logs\
+C:\ProgramData\VMware\VDM\Dumps\
+C:\ProgramData\Microsoft\Diagnosis\
+C:\ProgramData\'Kaspersky Lab'\KES\Temp\
+C:\ProgramData\'Kaspersky Lab'\KES\Cache\
+C:\ProgramData\KasperskyLab\adminkit\1103\$FTCITmp\
+C:\ProgramData\Intel\Logs\
+C:\ProgramData\Intel\'Package Cache'\
+C:\ProgramData\Veeam\Setup\Temp\
+C:\ProgramData\'Crypto Pro'\'Installer Cache'\
+C:\ProgramData\'Package Cache'\
+C:\ProgramData\Oracle\Java\installcache_x64\
+C:\ProgramData\LANDesk\Log\
+C:\ProgramData\Intel\Logs\
+C:\ProgramData\LANDesk\Temp\
+C:\ProgramData\Microsoft\Windows\RetailDemo\OfflineContent\
+C:\ProgramData\Microsoft\Windows\WER\ReportArchive\
+C:\ProgramData\Microsoft\Windows\WER\ReportQueue\
+C:\ProgramData\Microsoft\Windows\'Power Efficiency Diagnostics'\
+C:\ProgramData\Microsoft\SmsRouter\MessageStore\
+C:\ProgramData\Microsoft\Windows\WER\
+C:\ProgramData\Microsoft\Network\Downloader\
+C:\ProgramData\Microsoft\'Windows Security Health'\Logs\
+C:\ProgramData\Microsoft\'Windows Defender'\Support\
+C:\ProgramData\Microsoft\'Windows Defender'\Scans\History\Results\Resource\
+C:\ProgramData\'Windows Defender'\'Definition Updates'\
+C:\ProgramData\'Windows Defender'\Scans\
+C:\Intel\
+C:\SWSetup\
+C:\AMD\
+C:\$WINDOWS.~BT\
+C:\$WINDOWS.~WS\
+C:\$Windows.~BT\
+C:\$Windows.~WS\
+C:\Windows10Upgrade\
+C:\MSOCache\
+C:\Tracing\
+C:\NVIDIA\
+C:\Config.Msi\
+C:\PerfLogs\

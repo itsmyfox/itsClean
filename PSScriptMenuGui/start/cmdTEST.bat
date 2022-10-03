@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass \\10.1.114.24\techsupport\DISTRIBS\Scripts\CLEANDISK\PSScriptMenuGui\start\START_Scripts.ps1

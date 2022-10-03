@@ -1,0 +1,28 @@
+\AppData\Local\Temp\
+\'Local Settings'\Temp\
+\'Local Settings'\'Temporary Internet Files'\
+\AppData\Local\Microsoft\Windows\'Temporary Internet Files'\
+\AppData\Local\Yandex\YandexBrowser\Application\browser.7z
+\AppData\Local\Yandex\YandexBrowser\Application\brand-package.cab
+\AppData\Local\Yandex\YandexBrowser\Application\setup.exe
+\AppData\Local\Comms\
+\AppData\Local\Microsoft\Windows\PowerShell\
+\AppData\Local\Microsoft\Windows\Notifications\
+\AppData\Local\Microsoft\Windows\PRICache\
+\AppData\Local\Microsoft\Windows\Caches\
+\AppData\Local\Microsoft\Windows\WebCache\
+\AppData\Local\Microsoft\Windows\WebCache.old\
+\AppData\LocalLow\Microsoft\CryptnetUrlCache\
+\AppData\LocalLow\Microsoft\Windows\AppCache\
+\AppData\LocalLow\Temp\
+\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\
+\AppData\Macromedia\'Flash Player'\AssetCache\
+\AppData\Macromedia\'Flash Player'\NativeCache\
+\AppData\Adobe\'Flash Player'\AssetCache\
+\AppData\Adobe\'Flash Player'\NativeCache\
+\AppData\ElevatedDiagnostics\
+\AppData\Local\*.auc
+\AppData\Local\Microsoft\'Terminal Server Client'\Cache\*
+\AppData\Local\Microsoft\Windows\'Temporary Internet Files'\*
+\AppData\Local\Microsoft\Windows\WER\ReportQueue\*
+\AppData\Local\Microsoft\Windows\Explorer\*
