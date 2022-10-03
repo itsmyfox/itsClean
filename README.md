@@ -154,14 +154,25 @@ C:\PerfLogs\
 *\AppData\LocalLow\Microsoft\CryptnetUrlCache\
 *\AppData\LocalLow\Microsoft\Windows\AppCache\
 *\AppData\LocalLow\Temp\
+
 *\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\
+
 *\AppData\Macromedia\'Flash Player'\AssetCache\
+
 *\AppData\Macromedia\'Flash Player'\NativeCache\
+
 *\AppData\Adobe\'Flash Player'\AssetCache\
+
 *\AppData\Adobe\'Flash Player'\NativeCache\
+
 *\AppData\ElevatedDiagnostics\
+
 *\AppData\Local\*.auc
+
 *\AppData\Local\Microsoft\'Terminal Server Client'\Cache\*
+
 *\AppData\Local\Microsoft\Windows\'Temporary Internet Files'\*
+
 *\AppData\Local\Microsoft\Windows\WER\ReportQueue\*
+
 *\AppData\Local\Microsoft\Windows\Explorer\*
