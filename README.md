@@ -53,6 +53,7 @@ C:\Windows\assembly\tmp\
 C:\Windows\System32\WDI\BootPerformanceDiagnostics_SystemData.bin
 C:\Windows\System32\WDI\ShutdownPerformanceDiagnostics_SystemData.bin
 C:\Windows\System32\catroot2\dberr.txt
+
 C:\Windows\System32\LogFiles\WMI\RtBackup\
 C:\Windows\BitLockerDiscoveryVolumeContents\
 C:\Windows\LastGood.Tmp\
