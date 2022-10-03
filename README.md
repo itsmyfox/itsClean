@@ -138,21 +138,37 @@ C:\PerfLogs\
 Список фиксированных директорий в папке пользователи (PSScriptMenuGui\start\users-directory.txt):
 
 *\AppData\Local\Temp\
+
 *\'Local Settings'\Temp\
+
 *\'Local Settings'\'Temporary Internet Files'\
+
 *\AppData\Local\Microsoft\Windows\'Temporary Internet Files'\
+
 *\AppData\Local\Yandex\YandexBrowser\Application\browser.7z
+
 *\AppData\Local\Yandex\YandexBrowser\Application\brand-package.cab
+
 *\AppData\Local\Yandex\YandexBrowser\Application\setup.exe
+
 *\AppData\Local\Comms\
+
 *\AppData\Local\Microsoft\Windows\PowerShell\
+
 *\AppData\Local\Microsoft\Windows\Notifications\
+
 *\AppData\Local\Microsoft\Windows\PRICache\
+
 *\AppData\Local\Microsoft\Windows\Caches\
+
 *\AppData\Local\Microsoft\Windows\WebCache\
+
 *\AppData\Local\Microsoft\Windows\WebCache.old\
+
 *\AppData\LocalLow\Microsoft\CryptnetUrlCache\
+
 *\AppData\LocalLow\Microsoft\Windows\AppCache\
+
 *\AppData\LocalLow\Temp\
 
 *\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\
